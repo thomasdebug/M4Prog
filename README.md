@@ -10,3 +10,8 @@ ik heb movement gemaakt zodat je een 3d side scroller kan maken met een jump
 ik heb de timed muntjacht gemaakt zoals u ziet in de gif 
 ![OPDR3](OPDR3.gif)
 [SCRIPT3](Assets/Gamemanager.cs)
+# OPDR 4 : Start en spel
+ik heb die spel scene gemaakt 
+![OPDR4](Les4.gif)
+[SCRIPT4](/Assets/LES4.cs)
+[SCRIPT4](Assets/SceneSwitcher.cs)
