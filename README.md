@@ -15,3 +15,8 @@ ik heb die spel scene gemaakt
 ![OPDR4](Les4.gif)
 [SCRIPT4](/Assets/LES4.cs)
 [SCRIPT4](Assets/SceneSwitcher.cs)
+# OPDR 5 : Gestructureerde Muntjager
+ik heb het geprobeerd om het te maken en als je ziet is het gelukt
+![OPDR5](OPDR5.gif)
+[SCRIPT5](Assets/ScoreManager.cs)
+[SCRIPT5](Assets/Playermove.cs)
